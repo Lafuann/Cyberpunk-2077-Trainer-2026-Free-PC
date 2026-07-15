@@ -1,0 +1,6 @@
+pymem
+pynput
+opencv-python
+pillow
+win32api
+mouse
